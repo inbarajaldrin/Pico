@@ -1,0 +1,3 @@
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/pioasm/CMakeFiles/pioasm.dir
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/pioasm/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+# Target labels
+ ELF2UF2Build
+# Source files and their labels
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/CMakeFiles/ELF2UF2Build
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/CMakeFiles/ELF2UF2Build.rule
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/CMakeFiles/ELF2UF2Build-complete.rule
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-build.rule
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-configure.rule
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-download.rule
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-install.rule
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-mkdir.rule
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-patch.rule
+/Users/aldrininbaraj/documents/Pico/working/hello_world/usb/build/elf2uf2/src/ELF2UF2Build-stamp/ELF2UF2Build-update.rule

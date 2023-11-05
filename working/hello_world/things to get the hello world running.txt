@@ -1,0 +1,7 @@
+cmake .. -DPICO_SDK_PATH=/Users/aldrininbaraj/Documents/Pico/pico-sdk/
+make
+
+brew install minicom
+ls /dev/tty.*
+minicom -o -D /dev/tty.usbmodem2101
+pkill minicom
